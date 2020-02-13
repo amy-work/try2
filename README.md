@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Amy's second attempt at GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/amy-work/try2/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub] to maintain and preview the content for your website in Markdown files. Or can you?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll] woo
 
 ### Markdown
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1: I like dogs.
+## Header 2: Dogs are the best.
+### Header 3: Let's replace people with dogs.
 
 - Bulleted
 - List
@@ -26,12 +26,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amy-work/try2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [GitHub Flavored Markdown] The test of success
